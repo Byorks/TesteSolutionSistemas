@@ -1,0 +1,16 @@
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\bin\Debug\net5.0\TesteQuestao1.exe
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\bin\Debug\net5.0\TesteQuestao1.deps.json
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\bin\Debug\net5.0\TesteQuestao1.runtimeconfig.json
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\bin\Debug\net5.0\TesteQuestao1.runtimeconfig.dev.json
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\bin\Debug\net5.0\TesteQuestao1.dll
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\bin\Debug\net5.0\ref\TesteQuestao1.dll
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\bin\Debug\net5.0\TesteQuestao1.pdb
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\TesteQuestao1.csproj.AssemblyReference.cache
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\TesteQuestao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\TesteQuestao1.AssemblyInfoInputs.cache
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\TesteQuestao1.AssemblyInfo.cs
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\TesteQuestao1.csproj.CoreCompileInputs.cache
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\TesteQuestao1.dll
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\ref\TesteQuestao1.dll
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\TesteQuestao1.pdb
+C:\Users\MatiasBatista\source\repos\TesteQuestao1\obj\Debug\net5.0\TesteQuestao1.genruntimeconfig.cache

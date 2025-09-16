@@ -1,0 +1,15 @@
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\bin\Debug\net5.0\TesteQuestão3.exe
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\bin\Debug\net5.0\TesteQuestão3.deps.json
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\bin\Debug\net5.0\TesteQuestão3.runtimeconfig.json
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\bin\Debug\net5.0\TesteQuestão3.runtimeconfig.dev.json
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\bin\Debug\net5.0\TesteQuestão3.dll
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\bin\Debug\net5.0\ref\TesteQuestão3.dll
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\bin\Debug\net5.0\TesteQuestão3.pdb
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\obj\Debug\net5.0\TesteQuestão3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\obj\Debug\net5.0\TesteQuestão3.AssemblyInfoInputs.cache
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\obj\Debug\net5.0\TesteQuestão3.AssemblyInfo.cs
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\obj\Debug\net5.0\TesteQuestão3.csproj.CoreCompileInputs.cache
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\obj\Debug\net5.0\TesteQuestão3.dll
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\obj\Debug\net5.0\ref\TesteQuestão3.dll
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\obj\Debug\net5.0\TesteQuestão3.pdb
+C:\Users\MatiasBatista\source\repos\TesteQuestão3\obj\Debug\net5.0\TesteQuestão3.genruntimeconfig.cache
